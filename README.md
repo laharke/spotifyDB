@@ -2,8 +2,6 @@
 
 By Mauro Andres Ronconi
 
-Video overview: <URL HERE>
-
 ## Scope
 
 The purpose of this database is to emulate a lite version of spotify's own database.
@@ -65,6 +63,7 @@ It's designed this way so that a song can have multiple artists. This way we cov
 
 The below entity relationship diagram describes the relationships among the entities in the database.
 ![ER Diagram](diagramLite.png)
+
 Another (more complex) version of the diagram were you can see each table field and how they work together can be found here:
 ![ER Diagram](diagram.png)
 
