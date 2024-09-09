@@ -20,8 +20,8 @@ cursor = cnx.cursor()
 #results = cursor.fetchall()
 
 
-ClientID = '76602d0ba1f14df4a61dc8292d745ab9'
-ClientSecret = 'cd391e24231d4902bd8a6c6153b07a79'
+ClientID = '1234'
+ClientSecret = '1234'
 
 def get_token():
     auth_string = ClientID + ":" + ClientSecret
