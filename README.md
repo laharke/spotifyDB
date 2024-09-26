@@ -1,6 +1,10 @@
 # Design Document
 
 By Mauro Andres Ronconi
+* GitHub: **Laharke**
+* edX username:  **Laharke**
+* City, Country: Bahia blanca, Argentina
+* Date video: 26/09/2024
 
 ## Scope
 
