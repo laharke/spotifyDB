@@ -1,4 +1,4 @@
-# Design Document
+# SptoifyDB
 
 By Mauro Andres Ronconi
 * GitHub: **Laharke**
